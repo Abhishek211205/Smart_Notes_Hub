@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="4.0">
+    <display-name>NotesPortal</display-name>
+
+    <welcome-file-list>
+        <welcome-file>list.jsp</welcome-file>
+    </welcome-file-list>
+
+    <!-- servlets are configured via annotations; kept for reference -->
+</web-app>
